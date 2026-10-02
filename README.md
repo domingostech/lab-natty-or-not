@@ -12,7 +12,10 @@ Com o auxilio de uma IA Generativa foi elaborado um texto curto e objetivo apres
 Em seguida como um exemplo de tipos diferentes (multimodalidade) foi elaborado um pequeno arquivo sobre as novas tenências do uso de IA na educação de pessoas atípicas como ferramenta de apoio.
 
 ## 🚀 Resultados
-Resumo do artigo criado - 
+Resumo do artigo criado em texto
+Um podcast
+Um resumo em vídeo 
+Uma apresentação do artigo elaborado
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+É sempre desafiador e gratificante gerar conteúdo agregador com uso de IA.
